@@ -77,21 +77,6 @@ Olá — sou desenvolvedor júnior baseado em São Paulo, Brasil. Trabalho com a
 
 ---
 
-## Seções dinâmicas sugeridas
-- Cards de stats do GitHub (commits, streak, languages).  
-- Métricas de código (WakaTime), feed de atividade e badges CI/CD.  
-- “Atualmente trabalhando em”, “Aprendendo agora”, “Destaques” e “Boilerplates reutilizáveis”.
-
-Exemplos de badges que recomendo inserir/atualizar:
-```markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klabacher&layout=compact)]
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=klabacher&show_icons=true)]
-[![Wakatime](https://wakatime.com/badge/user/SEU_BADGE_ID.svg)](https://wakatime.com/@SEU_USUARIO)
-[![CI](https://img.shields.io/github/actions/workflow/status/klabacher/REPO/ci.yml?branch=main)]
-```
-
----
-
 ## Contato
 - Portfolio / site: https://klabacher.github.io  
 - LinkedIn: https://www.linkedin.com/in/joaovitorklabacher/  
